@@ -114,13 +114,6 @@ Before going live, update `siteUrl` in `src/app/layout.tsx` to your real domain 
 
 ---
 
-## Credits
-
-- Terminal-based design language inspired by [Devyang Sharma's portfolio](https://www.devyangsharma.com/) — visual language and interaction *concepts* only; no layout, code, copy, or assets were copied. Colors, typography, commands, and composition here are original.
-- ASCII artwork, certificates, and all content supplied by Himanshu Gautam.
-
----
-
 ## Future Improvements
 
 - Optional curated GitHub API integration (selected repos, cached, with local fallback) if `github.com/marathonengineer` activity is worth surfacing later.
